@@ -12,7 +12,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack)
 ![Gulp](https://img.shields.io/badge/-Gulp-090909?style=for-the-badge&logo=gulp)
-![VueJS](https://img.shields.io/badge/-VueJS-090909?style=for-the-badge&logo=vuejs)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb)
